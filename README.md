@@ -1,3 +1,4 @@
+
 # Chat GPT AI Clone
 
 Chat GPT AI Clone is a web application that allows users to search for answers to any questions using the Chat GPT 3.5 engine. This project leverages modern frontend technologies such as React, SCSS, and RESTful APIs to deliver an intuitive and responsive user experience.
@@ -23,26 +24,18 @@ Follow these steps to get the project up and running on your local machine.
    ```bash
    git clone https://github.com/akngngr/codex.git
    cd codex
-
 2.  **Install dependencies:**
-    
-    bash
-        
+            
     `npm install` 
     
 3.  **Start the development server:**
-    
-    bash
-        
+            
     `npm start` 
     
 4.  **Build for production:**
-    
-    bash
-        
+            
     `npm run build` 
     
-
 ## Usage
 
 1.  Open your browser and navigate to `http://localhost:3000`.
