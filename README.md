@@ -27,25 +27,19 @@ Follow these steps to get the project up and running on your local machine.
 2.  **Install dependencies:**
     
     bash
-    
-    Copy code
-    
+        
     `npm install` 
     
 3.  **Start the development server:**
     
     bash
-    
-    Copy code
-    
+        
     `npm start` 
     
 4.  **Build for production:**
     
     bash
-    
-    Copy code
-    
+        
     `npm run build` 
     
 
